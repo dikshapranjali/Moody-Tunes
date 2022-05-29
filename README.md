@@ -4,6 +4,7 @@
 It is a facial expression recognition-based movie and music suggestion web app that cheer up users and saves time while searching for a movie or song that matches their mood. The model is trained on the FER2013 dataset.
 ## Inspiration
 Human beings are emotional creatures whose state of mind can usually be observed through their facial expressions. In today's world where everyone is striving for achievement, many people are succumbing to loneliness and anxiety as a result of this struggle.**Moody Tunes** is a quick fix for people to elevate their moods by recommending movies and songs based on their feelings.
+![image](https://github.com/dikshapranjali/Moody-Tuness/blob/main/flow.jpg) 
 ## Features
 - It recognizes facial expressions real-time based on the 6 categories i.e., angry, sad, fear, happy, surprise and neutral.
 - Recommends a list of songs and movies to the user based on the captured facial expression
