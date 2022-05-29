@@ -8,5 +8,5 @@ Here's how the application works:
 2. Based on the emotion it gives user two choices  either suggesting movies or songs.
 3. If user wishes to watch movies/songs then a list of movies/songs matching their mood are suggested with movie/songs poster.
 4. When user clicks on movie which he wishes to watch, they will be redirected to IMDB website and for songs it redirects them to Spotify website.
-## What's next for **Moodify**
+## What's next for **Moody Tunes**
 The next step is to improve the model's accuracy.
