@@ -19,7 +19,7 @@ Human beings are emotional creatures whose state of mind can usually be observed
 - Install the package pip install -r requirements.txt
 
 **Running Flask**
-- [set MOODY TUNESS=app.py]
+- [ set MOODY TUNESS=app.py ]
 - flask run
 - Copy rhe http link and paste it on the browser to run the web app locally
 ## What's next for **Moody Tunes**
