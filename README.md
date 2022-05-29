@@ -15,7 +15,7 @@ Human beings are emotional creatures whose state of mind can usually be observed
 ## Running the app
 **Prerequisites**
 - Setup a Virtual Env
-- pip install flask
+- [(pip install flask)]
 - Install the package pip install -r requirements.txt
 
 **Running Flask**
