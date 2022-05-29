@@ -1,6 +1,6 @@
 # Moody Tunes
 ![image](https://github.com/dikshapranjali/Moody-Tuness/blob/main/MOODY%20TUNES.jpg) 
-# Project Description
+## Project Description
 It is a facial expression recognition-based movie and music suggestion web app that cheer up users and saves time while searching for a movie or song that matches their mood. The model is trained on the FER2013 dataset.
 ## Inspiration
 Human beings are emotional creatures whose state of mind can usually be observed through their facial expressions. In today's world where everyone is striving for achievement, many people are succumbing to loneliness and anxiety as a result of this struggle.**Moody Tunes** is a quick fix for people to elevate their moods by recommending movies and songs based on their feelings.
