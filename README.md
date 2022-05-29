@@ -16,9 +16,11 @@ Human beings are emotional creatures whose state of mind can usually be observed
 - OpenCV
 ## Running the app
 **Prerequisites**
+- Python3
 - Setup a Virtual Env
 - pip install flask
-- Install the package pip install -r requirements.txt
+- Install the package:
+  pip install -r requirements.txt
 
 **Running Flask**
 - (set MOODY TUNESS=app.py)
