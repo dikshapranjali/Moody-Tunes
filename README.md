@@ -1,3 +1,4 @@
+![image](https://github.com/Atharva-D/Assignment-Submission/blob/main/Moodify_Thumbnail.jpeg](https://github.com/dikshapranjali/Moody-Tuness/blob/main/MOODY%20TUNES.jpg) 
 # Project Description
 It is a facial expression recognition-based movie and music suggestion web app that cheer up users and saves time while searching for a movie or song that matches their mood. The model is trained on the FER2013 dataset.
 ## Inspiration
