@@ -35,6 +35,6 @@ Human beings are emotional creatures whose state of mind can usually be observed
   ```
   flask run
   ```
-- Copy rhe http link and paste it on the browser to run the web app locally
+- Copy the http link and paste it on the browser to run the web app locally
 ## What's next for **Moody Tunes**
 The next step is to improve the model's accuracy and connect the application to a database for getting an updated list of movies and songs each time the user expression is captured.
