@@ -27,10 +27,8 @@ Human beings are emotional creatures whose state of mind can usually be observed
   ```
   pip install -r requirements.txt
   ```
-
-**Running Flask**
-- 
-  ```
+  **Running Flask**
+- ```
   set MOODY TUNESS=app.py
   ```
 - 
